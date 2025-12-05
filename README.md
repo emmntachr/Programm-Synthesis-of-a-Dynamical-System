@@ -1,7 +1,7 @@
 This repository contains the work I completed for a technical assignment related to program synthesis and dynamical systems.
 The goal of the project was to generate data from two given systems and then recover their governing equations using a simple synthesis-based approach.
 I include here only my own implementation and explanation.
-The repository contains three Jupyter notebooks (System1.ipynb and System2.ipynb,System1synthesis.ipynb), along with  reports where I describe my reasoning process and how I approached the problem.
+The repository contains three Jupyter notebooks (System1.ipynb and System2.ipynb,System1synthesis.ipynb), along with the task and a report where I describe my reasoning process and how I approached the problem.
 
 The main idea behind the project is to treat the discovery of a dynamical system as a small program-synthesis problem.
 
